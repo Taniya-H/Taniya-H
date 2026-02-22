@@ -42,12 +42,15 @@
 
 
 ## 📊 Github Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&icon_color=00f5ff)](https://github.com/Taniya-H)
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=tokyonight"/>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" align="center" />
 
-[![Github Streak](https://nirzak-streak-stats.vercel.app/?user=Taniya-H&theme=dark&hide_border=false)](https://github.com/Taniya-H)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)](https://github.com/Taniya-H)
-
+</div>
 
 ### ✍️ Random Dev Quote
 ---
