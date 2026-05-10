@@ -10,11 +10,7 @@
 
 
 ## 🌐 Socials:
-
-<p align="left">
- <a href="https://www.instagram.com/cocopie.me/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instg" height="30" width="40" />
-  </a>
+  
   <a href="https://www.kaggle.com/taniyahalder" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="30" width="40"/>
   </a>
@@ -23,8 +19,6 @@
   </a>
   <a href="https://leetcode.com/u/Taniya_h/" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 
 
 # 💻 Tech Stack:
