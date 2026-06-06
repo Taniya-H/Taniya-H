@@ -10,7 +10,8 @@
 
 
 ## 🌐 Socials:
-  
+
+<div align="center">  
   <a href="https://www.kaggle.com/taniyah" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="30" width="40"/>
   </a>
@@ -19,10 +20,11 @@
   </a>
   <a href="https://leetcode.com/u/Taniya_h/" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="30" width="40" />
-
+</div>
 
 ## 🛠️ Skills
-
+<div align="center">
+  
 **Programming Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
@@ -56,6 +58,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
+</div>
 
 ## 📊 Github Stats:
 <div align="center">
@@ -66,17 +69,6 @@
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" align="center" />
 </div>
-
-
-### ✍️ Random Dev Quote
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
----
-![](https://github-contributor-stats.vercel.app/api?username=Taniya-H&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Taniya-H&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # ■ My GitHub Activity Game
