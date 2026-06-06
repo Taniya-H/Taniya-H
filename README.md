@@ -21,10 +21,11 @@
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="30" width="40" />
 
 
-# 💻 Tech Stack:
+## 🛠️ Skills
+
 **Programming Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
 
 **Frontend Development**
 <br>
@@ -46,6 +47,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/>
 <img width="50" height="50" alt="22799945-Photoroom" src="https://github.com/user-attachments/assets/c3d2f9c2-26a1-41e3-9f7d-553daa559eb6" />
+
+**AI & Agent Frameworks**
+<br>
+<img width="50" height="50" alt="agent-development-kit" src="https://github.com/user-attachments/assets/18893f84-14f5-473f-b7f9-6efdd0755e59" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 
 ## 📊 Github Stats:
