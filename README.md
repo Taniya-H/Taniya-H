@@ -45,7 +45,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/>
-<img src="path/to/seaborn-icon.png" alt="Seaborn" width="40" />
+<img width="50" height="50" alt="22799945-Photoroom" src="https://github.com/user-attachments/assets/c3d2f9c2-26a1-41e3-9f7d-553daa559eb6" />
+
+
 ## 📊 Github Stats:
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=midnight_purple" />
