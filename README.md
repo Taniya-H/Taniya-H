@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
   
-  <a href="https://www.kaggle.com/taniyahalder" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/taniyah" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="30" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/taniya-h/" target="_blank" rel="noreferrer">
