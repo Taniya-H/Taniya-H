@@ -37,14 +37,14 @@
 
 ## 📊 Github Stats:
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=tokyonight" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=tokyonight"  />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=tokyonight"  />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=midnight_purple" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=midnight_purple" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=midnight_purple" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=midnight_purple" />
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" align="center" />
-
 </div>
+
 
 ### ✍️ Random Dev Quote
 ---
