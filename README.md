@@ -56,7 +56,7 @@
 
 **Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=dark" />
 
 </div>
 
