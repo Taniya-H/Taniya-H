@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![ff](https://github.com/user-attachments/assets/09a75c3d-a2ee-4f1f-81d2-e81b70e3476d){: width="100%" }
+  ![ff](https://github.com/user-attachments/assets/09a75c3d-a2ee-4f1f-81d2-e81b70e3476d)
 
 </div>
 
