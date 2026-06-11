@@ -1,12 +1,10 @@
 <div align="center">
 
-  ![ff](https://github.com/user-attachments/assets/09a75c3d-a2ee-4f1f-81d2-e81b70e3476d)
+  ![ff](https://github.com/user-attachments/assets/09a75c3d-a2ee-4f1f-81d2-e81b70e3476d){: width="100%" }
 
 </div>
 
-</p>
-
-<h2>💫 About Me:</h2><br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently <br>exploring Tech, Data & Innovation 💻.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
+<h2>💫 About Me:</h2><br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently <br>exploring Tech, Data & Innovation 💻.<br>I like breaking things to [...]
 
 
 ## 🌐 Socials:
@@ -73,5 +71,5 @@
 
 # ■ My GitHub Activity Game
 <p align="center">
- <img src="assets/space-shooter.gif" />
+ <img src="assets/space-shooter.gif" width="100%" />
 </p>
