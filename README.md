@@ -4,7 +4,13 @@
 
 </div>
 
-<h2>💫 About Me:</h2><br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently <br>exploring Tech, Data & Innovation 💻.<br>I like breaking things to [...]
+<h2>💫 About Me:</h2><br>
+Hey, I'm Taniya Halder 👋<br>
+I'm a first-year BS in Data Science student at IIT Madras, currently<br>
+exploring tech, data, and innovation 💻.<br>
+I like breaking things down to understand how they work and building them back smarter.<br>
+I'm passionate about coding, problem-solving, and using data to create meaningful solutions.<br>
+Always learning, always curious, and constantly working on building cool things 🚀.
 
 
 ## 🌐 Socials:
