@@ -1,6 +1,7 @@
 <div align="center">
 
-  ![ff](https://github.com/user-attachments/assets/09a75c3d-a2ee-4f1f-81d2-e81b70e3476d)
+  <img width="100%" height="500" alt="16 07 2026_17 18 42_REC" src="https://github.com/user-attachments/assets/d68d57d4-d364-4277-adc1-204c045c39df" />
+
 
 </div>
 
