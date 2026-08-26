@@ -1,82 +1,177 @@
+<img src="https://raw.githubusercontent.com/Taniya-H/Taniya-H/main/header.svg" width="100%" alt="Sleek Hero">
+
+<div align="center">
+# ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
+</div>
+
 <div align="center">
 
-  <img width="100%" height="380" alt="16 07 2026_17 18 42_REC" src="https://github.com/user-attachments/assets/d68d57d4-d364-4277-adc1-204c045c39df" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
 
+<br>
 
 </div>
 
-<h2>💫 About Me:</h2><br>
-Hey, I'm Taniya Halder 👋<br>
-I'm a first-year BS in Data Science student at IIT Madras, currently<br>
-exploring tech, data, and innovation 💻.<br>
-I like breaking things down to understand how they work and building them back smarter.<br>
-I'm passionate about coding, problem-solving, and using data to create meaningful solutions.<br>
-Always learning, always curious, and constantly working on building cool things 🚀.
+꒰ა ♡ ໒꒱
 
-
-## 🌐 Socials:
-
-<div align="center">  
-  <a href="https://www.kaggle.com/taniyah" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/taniya-h/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdeln" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Taniya_h/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="30" width="40" />
 </div>
 
-## 🛠️ Skills
 <div align="center">
   
-**Programming Languages**
-<br>
+⋆｡°✩ ───────────── ✩°｡⋆
+
+</div>
+
+## ୨୧ ⋆｡°✩ About Me ✩°｡⋆
+
+Heyyy! I'm **Taniya** 👋🏻🎀
+
+I'm a first-year **BS in Data Science student at IIT Madras**, currently learning **whatever interesting tech rabbit hole I fall into next**. 
+
+ 
+
+***꒰ა ♡ ໒꒱ Currently I'm:***
+
+୨୧ Learning things I probably should've started learning three months ago. 🎀<br>
+୨୧ Building random little projects because tutorials get boring. 🎀<br>
+୨୧ Trying to convince my code to work on the first try make the damn code run. 🎀 <br>
+
+<div align="center">
+⋆｡°✩ ───────────── ✩°｡⋆
+</div>
+
+## ୨୧ ⋆｡°✩ Find Me Around The Internet ✩°｡⋆
+
+<div align="center">
+
+<a href="https://www.kaggle.com/taniyah" target="_blank">
+<img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="35" width="45"/>
+</a>
+   ୨୧   
+
+<a href="https://www.linkedin.com/in/taniya-h/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+</a>
+   ୨୧   
+
+<a href="https://leetcode.com/u/Taniya_h/" target="_blank">
+<img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="35" width="45"/>
+</a>
+
+<br><br>
+
+꒰ა ♡ ໒꒱
+
+</div>
+
+## ୨୧ ⋆｡°✩ My Tech Stack ✩°｡⋆
+
+<div align="center">
+
+### ₊˚⊹♡ Languages ♡⊹˚₊
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
 
-**Frontend Development**
 <br>
+
+### ₊˚⊹♡ Frontend ♡⊹˚₊
+
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
 
-**Backend Development**
 <br>
+
+### ₊˚⊹♡ Backend ♡⊹˚₊
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
 
-**Databases**
 <br>
+
+### ₊˚⊹♡ Databases ♡⊹˚₊
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-**Data Science & Machine Learning**
 <br>
+
+### ₊˚⊹♡ Data Science & ML ♡⊹˚₊
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/>
-<img width="50" height="50" alt="22799945-Photoroom" src="https://github.com/user-attachments/assets/c3d2f9c2-26a1-41e3-9f7d-553daa559eb6" />
 
-**AI & Agent Frameworks**
 <br>
-<img width="50" height="50" alt="agent-development-kit" src="https://github.com/user-attachments/assets/18893f84-14f5-473f-b7f9-6efdd0755e59" />
 
-**Tools & Platforms**
+### ₊˚⊹♡ AI & Agents ♡⊹˚₊
+
+<img width="50" height="50" alt="Agent Development Kit" src="https://github.com/user-attachments/assets/18893f84-14f5-473f-b7f9-6efdd0755e59" />
+
 <br>
+
+### ₊˚⊹♡ Tools ♡⊹˚₊
+
 <img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=dark" />
 
 </div>
 
-## 📊 Github Stats:
+<br>
+
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=midnight_purple" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=midnight_purple" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=midnight_purple" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=midnight_purple" />
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" align="center" />
+
+୨୧ ────────────── ୨୧
+
 </div>
 
+## ୨୧ ⋆｡°✩ GitHub Stats ✩°｡⋆
 
-# ■ My GitHub Activity Game
-<p align="center">
- <img src="assets/space-shooter.gif" width="100%" />
-</p>
+<div align="center">
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=midnight_purple" />
+
+<br>
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=midnight_purple" />
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=midnight_purple" />
+
+<br>
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=midnight_purple" />
+
+<br>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" />
+
+</div>
+
+<br>
+
+## ୨୧ ⋆｡°✩ GitHub Activity ✩°｡⋆
+
+<div align="center">
+
+꒰ა ♡ ໒꒱
+
+<img src="assets/space-shooter.gif" width="100%" />
+
+꒰ა ♡ ໒꒱
+
+<br>
+
+**Apparently, coding wasn't enough, so I turned my GitHub activity into a game 🎮**
+
+</div>
+
+<br>
+
+<div align="center">
+
+୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
+
+**Thanks for stopping by! 🎀**
+
+*Now go look at my repositories. you might find something mildly interesting.*
+
+꒰ა ♡ ໒꒱
+
+</div>
