@@ -133,21 +133,21 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 
 <div align="center">
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=midnight_purple" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
 <br>
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=midnight_purple" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=midnight_purple" />
-
-<br>
-
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=midnight_purple" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
 <br>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Taniya-H&theme=midnight-purple" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Taniya-H&theme=midnight-purple&background=120B12&border=4A2338&stroke=4A2338&ring=FF8FAB&fire=FF4D88&currStreakNum=FFD6E0&sideNums=FFD6E0&currStreakLabel=FF8FAB&sideLabels=FFB3C6&dates=C98FA3" />
 
 </div>
 
