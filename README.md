@@ -7,7 +7,7 @@
   <a href="https://github.com/Taniya-H">
     <img src="https://img.shields.io/badge/GitHub-C2006E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Taniya-h">
+  <a href="https://leetcode.com/u/Taniya_h/">
     <img src="https://img.shields.io/badge/LeetCode-C2006E?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="[https://leetcode.com/Taniya-H](https://www.kaggle.com/taniyah)">
