@@ -53,10 +53,7 @@ Heyyy! I'm **Taniya** 👋🏻🎀
 
 I'm a first-year **BS in Data Science student at IIT Madras**, currently learning **whatever interesting tech rabbit hole I fall into next**. 
 
-<div align="center">
-<img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/cc886501-3e31-44d2-8888-902bd33e220a" />
-</div>
-<div align="left">
+![Terminal](https://readmeforge.natrajx.in/api/terminal?title=profile.sh&lines=%24+whoami%7Cstudent+%C2%B7+tech+enthusiast+%7C+%24+echo+%24INTERESTS%7CData+Science+%C2%B7+Coding+%C2%B7+AI+%C2%B7+Technology+%7C%24+cat+hobbies.txt%7COpen+Source+%C2%B7+Building+Stuff+%C2%B7+Gaming+%C2%B7+Coffee+%E2%98%95+%7C+%24+echo+%24STATUS+%7C+learning.exe+is+currently+running...&theme=dark&metal=neon-pink&width=662&colors=%23ff1493%2C%23c2185b%2C%238b003f)
   
 ### ꒰ა ♡ ໒꒱ Currently I'm:
 
