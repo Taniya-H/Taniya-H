@@ -1,4 +1,21 @@
+<div align="center">
+  <img width="2218" height="480" alt="Gemini_Generated_Image_kdmspokdmspokdms" src="https://github.com/user-attachments/assets/dfde93bb-77b6-4de4-ae7f-54172ce8e25d" />
+<p>
+  <a href="https://linkedin.com/in/Taniya-H">
+    <img src="https://img.shields.io/badge/LinkedIn-C2006E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Taniya-H">
+    <img src="https://img.shields.io/badge/GitHub-C2006E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Taniya-H">
+    <img src="https://img.shields.io/badge/LeetCode-C2006E?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="[https://leetcode.com/Taniya-H](https://www.kaggle.com/taniyah)">
+    <img src="https://img.shields.io/badge/kaggle-C2006E?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 
+</p>
+</div>
 
 <div align="center">
 # ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
@@ -9,8 +26,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
 
 <br>
-
-</div>
 
 ꒰ა ♡ ໒꒱
 
@@ -28,7 +43,9 @@ Heyyy! I'm **Taniya** 👋🏻🎀
 
 I'm a first-year **BS in Data Science student at IIT Madras**, currently learning **whatever interesting tech rabbit hole I fall into next**. 
 
- 
+<div align="center">
+<img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/cc886501-3e31-44d2-8888-902bd33e220a" />
+</div>
 
 ***꒰ა ♡ ໒꒱ Currently I'm:***
 
@@ -44,7 +61,7 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 
 <div align="center">
 
-<a href="https://www.kaggle.com/taniyah" target="_blank">
+<a href="" target="_blank">
 <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="35" width="45"/>
 </a>
    ୨୧   
