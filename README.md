@@ -193,3 +193,4 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 <div align="center">
 ୨୧ ────────────────────── ୨୧
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff1493&height=80&section=footer&width=full"/>
