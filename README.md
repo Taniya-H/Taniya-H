@@ -173,7 +173,7 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 
 **Thanks for stopping by! 🎀**
 
-*Now go look at my repositories. you might find something mildly interesting.*
+*Now go look at my repositories. You might find something mildly interesting.*
 
 </div>
 <div align="center">
