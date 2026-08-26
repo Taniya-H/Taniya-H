@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="left" align="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2000&pause=900&color=FFFFFF&leftr=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&italic=true&size=24&duration=2000&pause=900&color=FFFFFF&vCenter=true&multiline=true&width=900&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
     </td>
     <td align="right" valign="middle">
       <img width="276" height="221" alt="cute-hello-kitty" src="https://github.com/user-attachments/assets/2d032820-0c9e-4a75-a199-50d83feca81d" />
