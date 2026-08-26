@@ -20,21 +20,19 @@
 <div align="center">
 # ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
 </div>
-
+<div align="center">
+୨୧ ────────────────────── ୨୧
+</div>
+<br>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
 
-<br>
-
-꒰ა ♡ ໒꒱
-
-</div>
-
 <div align="center">
-  
-⋆｡°✩ ───────────── ✩°｡⋆
-
+୨୧ ────────────── ୨୧
+</div>
+<div align="center">
+꒰ა ♡ ໒꒱
 </div>
 
 ## ୨୧ ⋆｡°✩ About Me ✩°｡⋆
@@ -56,29 +54,8 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 <div align="center">
 ⋆｡°✩ ───────────── ✩°｡⋆
 </div>
-
-## ୨୧ ⋆｡°✩ Find Me Around The Internet ✩°｡⋆
-
 <div align="center">
-
-<a href="" target="_blank">
-<img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&size=40&theme=brand" alt="Kaggle" height="35" width="45"/>
-</a>
-   ୨୧   
-
-<a href="https://www.linkedin.com/in/taniya-h/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
-</a>
-   ୨୧   
-
-<a href="https://leetcode.com/u/Taniya_h/" target="_blank">
-<img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=40&theme=brand" alt="LeetCode" height="35" width="45"/>
-</a>
-
-<br><br>
-
 ꒰ა ♡ ໒꒱
-
 </div>
 
 ## ୨୧ ⋆｡°✩ My Tech Stack ✩°｡⋆
@@ -134,9 +111,10 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 <br>
 
 <div align="center">
-
 ୨୧ ────────────── ୨୧
-
+</div>
+<div align="center">
+꒰ა ♡ ໒꒱
 </div>
 
 ## ୨୧ ⋆｡°✩ GitHub Stats ✩°｡⋆
@@ -163,23 +141,25 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 
 <br>
 
+<div align="center">
+୨୧ ────────────── ୨୧
+</div>
+<div align="center">
+꒰ა ♡ ໒꒱
+</div>
+
 ## ୨୧ ⋆｡°✩ GitHub Activity ✩°｡⋆
 
 <div align="center">
 
-꒰ა ♡ ໒꒱
-
 <img src="assets/space-shooter.gif" width="100%" />
 
-꒰ა ♡ ໒꒱
-
-<br>
-
-**Apparently, coding wasn't enough, so I turned my GitHub activity into a game 🎮**
-
+<div align="center">
+୨୧ ────────────── ୨୧
 </div>
-
-<br>
+<div align="center">
+꒰ა ♡ ໒꒱
+</div>
 
 <div align="center">
 
@@ -189,6 +169,15 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 
 *Now go look at my repositories. you might find something mildly interesting.*
 
+<div align="center">
 ꒰ა ♡ ໒꒱
+</div>
 
+</div>
+<div align="center">
+# ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
+</div>
+
+<div align="center">
+୨୧ ────────────────────── ୨୧
 </div>
