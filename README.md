@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Taniya-H/Taniya-H/main/header.svg" width="100%" alt="Sleek Hero">
+
 
 <div align="center">
 # ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
