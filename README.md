@@ -56,13 +56,14 @@ I'm a first-year **BS in Data Science student at IIT Madras**, currently learnin
 <div align="center">
 <img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/cc886501-3e31-44d2-8888-902bd33e220a" />
 </div>
-
-***꒰ა ♡ ໒꒱ Currently I'm:***
+<div align="left">
+  
+### ꒰ა ♡ ໒꒱ Currently I'm:
 
 ୨୧ Learning things I probably should've started learning three months ago. 🎀<br>
 ୨୧ Building random little projects because tutorials get boring. 🎀<br>
 ୨୧ Trying to convince my code to work on the first try make the damn code run. 🎀 <br>
-
+</div>
 <div align="center">
 ⋆｡°✩ ───────────── ✩°｡⋆
 </div>
