@@ -51,7 +51,7 @@
 
 Heyyy! I'm **Taniya** 👋🏻🎀
 
-I'm a first-year **BS in Data Science student at IIT Madras**, currently learning **whatever interesting tech rabbit hole I fall into next**. 
+I'm a Tech enthusiast, currently learning **whatever interesting tech rabbit hole I fall into next**. 
 
 ![Terminal](https://readmeforge.natrajx.in/api/terminal?title=profile.sh&lines=%24+whoami%7Cstudent+%C2%B7+tech+enthusiast+%7C+%24+echo+%24INTERESTS%7CData+Science+%C2%B7+Coding+%C2%B7+AI+%C2%B7+Technology+%7C%24+cat+hobbies.txt%7COpen+Source+%C2%B7+Building+Stuff+%C2%B7+Gaming+%C2%B7+Coffee+%E2%98%95+%7C+%24+echo+%24STATUS+%7C+learning.exe+is+currently+running...&theme=amber&metal=neon-pink&width=662&colors=%23ff1493%2C%23c2185b%2C%238b003f)
   
