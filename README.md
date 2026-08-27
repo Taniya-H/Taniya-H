@@ -178,7 +178,7 @@ I'm a ***Tech enthusiast***, currently learning ***whatever interesting tech ra
 
 </div>
 <div align="center">
-# ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
+ ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
 </div>
 
 <div align="center">
