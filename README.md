@@ -99,66 +99,6 @@ I'm a ***Tech enthusiast***, currently learning ***whatever interesting tech ra
 ꒰ა ♡ ໒꒱
 </div>
 
-## ୨୧ ⋆｡°✩ My Tech Stack ✩°｡⋆
-
-<div align="center">
-
-### ₊˚⊹♡ Languages ♡⊹˚₊
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
-
-<br>
-
-### ₊˚⊹♡ Frontend ♡⊹˚₊
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
-
-<br>
-
-### ₊˚⊹♡ Backend ♡⊹˚₊
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
-
-<br>
-
-### ₊˚⊹♡ Databases ♡⊹˚₊
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
-
-<br>
-
-### ₊˚⊹♡ Data Science & ML ♡⊹˚₊
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/>
-
-<br>
-
-### ₊˚⊹♡ AI & Agents ♡⊹˚₊
-
-<img width="50" height="50" alt="Agent Development Kit" src="https://github.com/user-attachments/assets/18893f84-14f5-473f-b7f9-6efdd0755e59" />
-
-<br>
-
-### ₊˚⊹♡ Tools ♡⊹˚₊
-
-<img src="https://skillicons.dev/icons?i=git,github,notion,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-୨୧ ────────────── ୨୧
-</div>
-<div align="center">
-꒰ა ♡ ໒꒱
-</div>
-
-
 ## ୨୧ ⋆｡°✩ GitHub Activity ✩°｡⋆
 
 <div align="center">
