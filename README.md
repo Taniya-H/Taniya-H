@@ -1,13 +1,13 @@
 <div align="center">
   <img width="2218" height="480" alt="Gemini_Generated_Image_kdmspokdmspokdms" src="https://github.com/user-attachments/assets/dfde93bb-77b6-4de4-ae7f-54172ce8e25d" />
 <p>
-  <a href="https://linkedin.com/in/taniya-halder">
+  <a href="https://linkedin.com/in/Taniya-H">
     <img src="https://img.shields.io/badge/LinkedIn-C2006E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/taniya-halder">
+  <a href="https://github.com/Taniya-H">
     <img src="https://img.shields.io/badge/GitHub-C2006E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/taniya-halder/">
+  <a href="https://leetcode.com/u/Taniya-H/">
     <img src="https://img.shields.io/badge/LeetCode-C2006E?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -68,21 +68,21 @@ I'm a ***Tech enthusiast***, currently learning ***whatever interesting tech ra
 
 <div align="center">
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taniya-halder&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
 <br>
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taniya-halder&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taniya-halder&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
-
-<br>
-
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taniya-halder&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=taniya-halder&theme=midnight-purple&background=120B12&border=4A2338&stroke=4A2338&ring=FF8FAB&fire=FF4D88&currStreakNum=FFD6E0&sideNums=FFD6E0&currStreakLabel=FF8FAB&sideLabels=FFB3C6&dates=C98FA3" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taniya-H&theme=dark&bg_color=120B12&title_color=FF8FAB&text_color=FFD6E0&border_color=4A2338&icon_color=FF4D88&chart_color=FF8FAB" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Taniya-H&theme=midnight-purple&background=120B12&border=4A2338&stroke=4A2338&ring=FF8FAB&fire=FF4D88&currStreakNum=FFD6E0&sideNums=FFD6E0&currStreakLabel=FF8FAB&sideLabels=FFB3C6&dates=C98FA3" />
 
 </div>
 
@@ -99,7 +99,7 @@ I'm a ***Tech enthusiast***, currently learning ***whatever interesting tech ra
 
 <div align="center">
 
-![Pink Space Invaders](https://raw.githubusercontent.com/taniya-halder/taniya-halder/output/git-invader-pink-dark.svg)
+![Pink Space Invaders](https://raw.githubusercontent.com/Taniya-H/taniya-halder/output/git-invader-pink-dark.svg)
 
 <div align="center">
 ୨୧ ────────────── ୨୧
