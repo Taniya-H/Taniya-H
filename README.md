@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2218" height="480" alt="Gemini_Generated_Image_i4p7zhi4p7zhi4p7" src="https://github.com/user-attachments/assets/53cac8b6-3eeb-48b6-bd18-77a364d01d6d" />
+  <img width="2218" height="600" alt="Gemini_Generated_Image_i4p7zhi4p7zhi4p7" src="https://github.com/user-attachments/assets/53cac8b6-3eeb-48b6-bd18-77a364d01d6d" />
 
 <p>
   <a href="https://linkedin.com/in/Taniya-H">
