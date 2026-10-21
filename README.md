@@ -3,13 +3,13 @@
 
 <p>
   <a href="https://linkedin.com/in/Taniya-H">
-    <img src="https://img.shields.io/badge/LinkedIn-C2006E?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Taniya-H">
-    <img src="https://img.shields.io/badge/GitHub-C2006E?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-F48FB1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Taniya_Halder/">
-    <img src="https://img.shields.io/badge/LeetCode-C2006E?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-F48FB1?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 </div>
