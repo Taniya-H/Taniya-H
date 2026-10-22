@@ -109,6 +109,9 @@ I'm a ***Tech enthusiast***, currently learning ***whatever interesting tech ra
 
 ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
 
+<img width="240" height="230" alt="butterfly_no_bg" src="https://github.com/user-attachments/assets/4cb01558-723d-47f0-a656-fcf67d352d8f" />
+
+
 **Thanks for stopping by! 🎀**
 
 *Now go look at my repositories. You might find something mildly interesting.*
