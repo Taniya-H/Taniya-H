@@ -18,7 +18,7 @@
 
 <div align="center">
  ୨୧ ⋆｡°✩ 𓂃 ࣪˖ ִֶָ☾. ⋆｡°✩ ୨୧
-</div>
+
 <div align="center">
 ୨୧ ────────────────────── ୨୧
 </div>
@@ -30,7 +30,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=300&italic=true&size=24&duration=2000&pause=900&color=FFFFFF&vCenter=true&multiline=true&width=700&height=140&lines=%E0%AD%A8%E0%AD%A7+Hii%2C+I'm+Taniya!+%E0%AD%A8%E0%AD%A7;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Data+science+girlie+%E2%80%A2+Caffeine+powered+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9;%E2%9C%A9%C2%B0%E3%80%82%E2%8B%86+Chronically+curious+%E2%80%A2+Occasionally+functional+%E2%8B%86%E3%80%82%C2%B0%E2%9C%A9" alt="Typing SVG" />
     </td>
     <td align="right" valign="middle">
-      <img width="211" height="180" alt="cute-hello-kitty" src="https://github.com/user-attachments/assets/2d032820-0c9e-4a75-a199-50d83feca81d" />
+      </div><img width="458" height="399" alt="chart_no_bg" src="https://github.com/user-attachments/assets/b85e2ae9-f08e-4c34-92e7-b846a9d6ec81" />
     </td>
   </tr>
 </table>
